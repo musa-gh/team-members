@@ -23,10 +23,6 @@ Project aims to create your development team web page.
         
 ```
 
-## Expected Outcome
-
-![Project 004 Snapshot](./project04.png)
-
 ## Objective
 
 Build a responsive web page similar to [Project 004 Snapshot](./project04.png) 
